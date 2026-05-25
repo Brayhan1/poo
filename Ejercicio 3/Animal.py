@@ -8,3 +8,17 @@ class Animal:
 
     def hablar (yo)
         print (".....")
+#-----------------------------------------------------------------------------------------
+#clase derivada o clase hija
+
+
+    
+
+    #USO
+    #1 crear las instancias
+pakito = perro("Pakito", 5)
+salem = gato("Salem", 7)
+
+#2 usar las instancias
+salem.hablar()
+pakito.hablar()
